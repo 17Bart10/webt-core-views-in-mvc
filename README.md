@@ -25,3 +25,7 @@ Your company was booked to create an infosite about the most famous hotels of th
 
 #### Links
 https://my.skilldisplay.eu/en/skillset/85
+
+## How to Run
+### Tailwind
+To run Tailwind use: `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch`
